@@ -1,0 +1,15 @@
+html {
+    height: 100%;
+    background: white;
+    overflow: hidden;
+    
+}
+
+
+
+#question, #text {
+    font-family: 'Times New Roman', Times, serif;
+    align-content: center;
+    text-align: center;
+    font-size: 1.2;
+}
