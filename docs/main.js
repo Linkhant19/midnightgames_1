@@ -1,8 +1,24 @@
 const topics = [
-    { topic: "SPORTS", answer: "volleyball" },
+    { topic: "SPORTS", answer: "badminton" },
     { topic: "CLOTHING ITEM", answer: "shirt" },
-    { topic: "MOBILE APP", answer: "maps" }, 
-    { topic: "SONG", answer: "labyrinth" }
+    { topic: "VIDEO GAME", answer: "valorant" }, 
+    { topic: "SONG", answer: "labyrinth" },
+    { topic: "BOARD GAME", answer: "catan" },
+    { topic: "MYTHICAL CREATURE", answer: "phoenix" },
+    { topic: "MOBILE APP", answer: "maps" },
+    { topic: "1-10", answer: "4" },
+    { topic: "MARVEL CHARACTER", answer: "spiderman" },
+    { topic: "ALBUM", answer: "reputation" },
+    { topic: "COLOR", answer: "blue" },
+    { topic: "BODY PART", answer: "elbow" },
+    { topic: "BRAND", answer: "uniqlo" },
+    { topic: "COUNTRY", answer: "canada" },
+    { topic: "CITY", answer: "paris" },
+    { topic: "ELEMENT", answer: "water" },
+    { topic: "PET", answer: "cat" },
+    { topic: "ANIMAL", answer: "fox" },
+    { topic: "NAME", answer: "nelson" },
+    { topic: "FOOD", answer: "bread" }
 ];
 
 let currentQuestionIndex = 0;

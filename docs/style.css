@@ -1,17 +1,28 @@
 html {
     height: 100%;
-    background: white;
+    background: black;
     overflow: hidden;
-    
+    color: white;
 }
 
 
 
-#question, #text, #guess, #answer {
+#question, #guess {
     font-family: 'Times New Roman', Times, serif;
     align-content: center;
     text-align: center;
     font-size: 35px;
+}
+
+#text, #answer {
+    font-family: 'Courier New', Courier, monospace;
+    align-content: center;
+    text-align: center;
+    font-size: 16.8px;
+}
+
+#answer {
+    font-size: 25px;
 }
 
 #restart {
