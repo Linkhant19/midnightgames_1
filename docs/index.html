@@ -20,7 +20,7 @@
         </div>
         <div id="guess">
             <input type="text" id="guessInput" name="guessInput" placeholder="Type your guess here">
-            <button type="button" onclick="submitGuess()">Guess!</button>
+            <button type="button" id="GuessButton" onclick="submitGuess()">Guess!</button>
             
         </div>
         <div id="text">
@@ -31,6 +31,7 @@
             Score: <span id="score">0</span>
             <br>
             <button id="restartButton" style="display:none;" onclick="restartGame()">Restart</button>
+            <button id="nextButton" style="display:none;" onclick="nextQuestion()">Next</button>
         </div>
         
     </body>
