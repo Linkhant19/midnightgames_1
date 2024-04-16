@@ -10,4 +10,6 @@ For each topic, I have an answer. Your job is to try to guess what the word I th
 
 Have fun!
 
+Play it here: https://linkhant19.github.io/midnightgames_1/
+
 ![image](https://github.com/Linkhant19/midnightgames_1/assets/112969116/a382ffc3-39f7-404f-b6b4-0da6e0434236)
