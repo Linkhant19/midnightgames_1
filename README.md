@@ -6,7 +6,7 @@ Creation time:
 4/15/2024 midnight --> 4/16/2024 
 
 How to Play: 
-For each topic, I have an answer. Your job is to try to guess what the word I thought of is. All the guesses are just one word with only non-capitalized letters. If you guess correct, your score will increase and you will move on to the next topic. If you guess incorrectly, you will have to restart from the very start. Your goal is to get the highest score possible. 
+For each topic, I have an answer. Your job is to try to guess what the word I thought of is. All the guesses are just one word with only non-capitalized letters. If you guess correct, your high score will increase and you will move on to the next topic. If you guess incorrectly, you will have unlimited chances to guess again. Your goal is to reach the highest score possible. 
 
 Have fun!
 
