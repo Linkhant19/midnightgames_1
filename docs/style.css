@@ -7,9 +7,25 @@ html {
 
 
 
-#question, #text {
+#question, #text, #guess, #answer {
     font-family: 'Times New Roman', Times, serif;
     align-content: center;
     text-align: center;
-    font-size: 1.2;
+    font-size: 35px;
+}
+
+#restart {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center;
+    font-size: 35px;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+    align-content: center;
+    text-align: center;
+    font-size: 17px;
+    cursor: pointer;
 }
