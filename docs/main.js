@@ -85,11 +85,13 @@ function restartGame() {
     // 3. Reset the input field
     document.getElementById('guessInput').value = ''; 
 
+
+    // Actually I might allow them to reguess the same topic again and again because restarting from the start is a bit rage-inducing
     // 4. Change the score back to zero
-    document.getElementById('score').innerText = '0'; 
+    // document.getElementById('score').innerText = '0'; 
 
     // 5. Start from the first question again
-    currentQuestionIndex = 0;
+    // currentQuestionIndex = 0;
     displayCurrentTopic();
 
     // 6. Enable guessing
