@@ -1,6 +1,6 @@
 # midnightgames_1
 
-I was very awake at midnight and I wanted to create a quick game. I have a game that I play with my best friend, Kyle. We try to guess a word from a given topic and see if we are thinking the same thing. This is my attempt of trying to implement that, but more competitively. 
+I was very awake at midnight one night and I wanted to code a quick game. I have a game that I always play with my best friend, Kyle. We try to guess a word from a given topic and see if we are thinking the same thing. This is my attempt of trying to implement that, but more competitively. 
 
 Creation time: 
 4/15/2024 midnight --> 4/16/2024 
